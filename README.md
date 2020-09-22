@@ -8,7 +8,7 @@ It combines them with the camera and social media activity view to create a fun 
 # Installation
 1) _Clone_ the GitHub repository
 
-`$ git clone https://github.com/BinyaminAlfassi/`
+`$ git clone https://github.com/BinyaminAlfassi/Meme-2.0.git`
 
 2) Open project using _XCode_
 
